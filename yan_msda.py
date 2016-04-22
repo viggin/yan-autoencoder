@@ -1,5 +1,5 @@
 """
-Yet Another Neural network toolbox.
+Yet ANother autoencoder toolbox.
 
 An implementation of Marginalized Denoising Autoencoder using numpy.
 

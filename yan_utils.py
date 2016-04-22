@@ -1,5 +1,5 @@
 """
-Yet Another Neural network toolbox.
+Yet ANother autoencoder toolbox.
 
 Utility functions.
 

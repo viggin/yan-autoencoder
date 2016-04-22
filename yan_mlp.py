@@ -1,5 +1,5 @@
 """
-Yet Another Neural network toolbox.
+Yet ANother autoencoder toolbox.
 
 An implementation of multi-layer perceptron (fully connected network)
     using the Theano library.
